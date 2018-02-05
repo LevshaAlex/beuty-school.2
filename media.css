@@ -1,0 +1,359 @@
+@media screen and (max-width:1034px){
+    .slide{
+        height:600px !important;
+    }
+    .slide .slier-img{
+        height:600px !important;
+    }
+.slider-forma {
+    margin-bottom: -90px;
+}
+.bx-wrapper {
+	margin-bottom:-5vw;
+}
+    .pri .slier-img{
+        background-size:auto 130% !important;
+    }
+    .mob-s{
+        display:block;
+        margin:0 auto;
+        text-align:center;
+    }
+    .text-item-main{
+        display:block;
+        text-align:center !important;
+        text-indent: 0px !important;
+        font-size: 5vw !important;
+        line-height: 7vw;
+    }
+    .mob-s img{
+        display:inline-block;
+    }
+    .mobile-none{
+        display:none !important;
+    }
+    .media-footer-menu{
+        display:block !important;
+    }
+    .media-footer-menu .top-item{
+        display:block;
+    }
+.tab-curs{
+    display:block !important;
+    width:90% !important;
+    margin:0 auto !important;
+}
+    .mobile-slider .slide{
+        display:inline-block !important;
+        vertical-align:top !important;
+        width:30vw !important;
+        margin-top:5vw;
+    }
+    .mobile-slider .slier-img{
+        background-position:center center !important;
+    }
+    .item-mobile{
+        font-size: 8vw !important;
+        line-height: 9vw;
+    }
+    .item-mobile-1{
+        font-size: 5vw !important;
+        line-height: 7vw;
+    }
+    table .font-slim{
+        font-size:3vw;
+        line-height:5vw;
+    }
+    .css{
+    display:none !important;
+    }
+    .media{
+        display:block;
+    }
+.slider1 .slide{
+    width:900px !important;
+}
+  section{
+    width: auto;
+  }
+  .menu-top{
+    width: 100%;
+    float: none;
+    display: inline-block;
+    text-align: center;
+  }
+  .select{
+    width: 150px;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    padding: 8px;
+  }
+  .logo{
+    display: block;
+    width: 80%;
+    float: none;
+    margin: -50px auto 100px auto;
+  }
+  .address{
+    width: auto;
+    float: none;
+    display: block;
+    margin: -10px auto 0 auto;
+  }
+  .address>div{
+    display: inline-block;
+  }
+  .but{
+    padding: 7px;
+  }
+  .media-text{
+    margin: 0 10px;
+  }
+  .nav{
+    position: absolute;
+    left: 0;
+    top: 0;
+  }
+  .item{
+    border:none;
+    display: block;
+    text-align: center;
+    margin: 20px 0;
+  }
+  .item:nth-child(1){
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+  }
+  .item:nth-child(6){
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+  }
+  .left-forma,.right-forma{
+    display: block;
+    width: auto;
+    text-align: center;
+  }
+  .left-forma{
+    padding: 20px 0 0 0;
+  }
+  .right-forma{
+    height: auto;
+  }
+  .bx{
+    width:auto;
+    margin: 0 -10px 0 0;
+  }
+  .input{
+    display: block;
+    margin: 10px auto;
+  }
+  .block-procent{
+    display: block;
+    width: auto;
+    margin: 0 0 30px 0;
+  }
+  .article-block{
+    display: block;
+    width: auto;
+    margin: 0 0 20px 0;
+  }
+  .block-text{
+    height: 100px;
+  }
+  .vk{
+    width: 250px;
+    float: none;
+    margin: 0 auto;
+  }
+  .article-img{
+    width: 186px;
+  }
+  .menu-foot{
+    float: none;
+    display: block;
+    margin: 0 auto 20px auto;
+  }
+}
+
+}
+/*.modalDialog > div {*/
+    /*!*max-width: 65%;*!*/
+    /*!*max-width: 260px;*!*/
+    /*position: relative;*/
+    /*margin: 15% auto;*/
+    /*padding: 5px 20px 13px 20px;*/
+    /*border-radius: 10px;*/
+    /*background: #fff;*/
+    /*background: #333333;*/
+    /*border: 2px solid #ff3333;*/
+/*}*/
+
+
+
+
+@media screen and (max-width:980px){
+	section{
+		--main-padding:5vw;
+	}
+    /*.modalDialog > div {*/
+        /*!*max-width: 65%;*!*/
+        /*max-width: 260px;*/
+        /*position: relative;*/
+        /*margin: 15% auto;*/
+        /*padding: 5px 20px 13px 20px;*/
+        /*border-radius: 10px;*/
+        /*background: #fff;*/
+        /*background: #333333;*/
+        /*border: 2px solid #ff3333;*/
+    /*}*/
+	
+	#schedule{
+		--main-padding:0vw;
+		width: auto;
+	}	
+  body{
+    word-wrap: break-word;
+  }
+ .address{
+    margin: 30px auto 0 auto;
+  }
+  .block-img:nth-child(2n+1){
+  margin: 20px 0 120px 0;
+  }
+  .article-img{
+    width: 124px;
+  }
+  .block-text{
+    height: 20px;
+  }
+   .logo{
+    width: 100%;
+  }
+    .select{
+    width: 100%;
+    position: relative;
+    padding: 20px 8px;
+    display: inline-block;
+    margin: 100px 0 0 0;
+    font-size: 30px;
+  }
+  .media-text{
+    display: block;
+    width: 100%;
+    text-align: center;
+  }
+  .font-big{
+    font-size: 8vw;
+    line-height: 9vw;
+  }
+  .font-slim{
+    font-size: 20px;
+    line-height: 25px;
+  }
+  .address> button{
+    width: 100%;
+    font-size: 5vw;
+    padding: 20px 0;
+    margin-top: 20px;
+  }
+  .font-normal{
+    font-size: 5vw;
+    line-height: 5vw;
+  }
+  .dop-text{
+    font-size: 5vw;
+    margin: 50px  0 -30px 0;
+  }
+  .item{
+    font-size: 5vw;
+    line-height: 11vw;
+  }
+  .input{
+    font-size: 5vw;
+    padding: 20px;
+    width: auto;
+    margin-top:40px;
+  }
+    .width-input{
+    width: auto;
+    font-size: 5vw;
+    padding: 20px;
+    margin-top: 20px;
+  }
+  .img-stick{
+    width: 20%;
+  }
+  .block-img{
+    width: auto;
+  }
+  .block-img-item{
+    font-size: 5vw;
+    line-height: 6vw;
+    top: 20px;
+  }
+  .b{
+    font-size: 30px;
+    padding: 20px;
+  }
+  .but-b{
+    position: absolute;
+    bottom: 0;
+  }
+  .block-img:nth-child(2n+1){
+  margin:10vw 0 10vw 0;
+  }
+  .img-star{
+    width: 20%;
+    margin: 2vw auto 5vw auto;
+  }
+  .but-forma{
+    font-size: 5vw;
+    padding: 20px;
+  }
+  .article-img{
+    width: 30%;
+  }
+  .link-article{
+    font-size: 5vw;
+  }
+  .col-3{
+    width: 100%;
+    display: block;
+    margin: 5vw 0
+  }
+  .block-adres:nth-child(2n+1){
+  margin: 5vw auto;
+  }
+  .block-adres{
+    height: auto;
+    display: block;
+    margin: 5vw auto;
+    width: 80%;
+  }
+  .home{
+    width: 100%;
+  }
+  .home-item{
+    font-size: 5vw;
+    line-height: 6vw;
+    width: auto;
+    margin-top: 5vw;
+  }
+  article{
+    padding: 2vw 0;
+  }
+  .box{
+    width: 100%;
+    overflow-x: scroll;
+  }
+  .color-4 .img-stick{
+  	width: 20%;
+  }
+  .menu-top{
+  	margin-top: -5vw;
+  }
+  #scrollup{
+      width:100px;
+  }
+}

@@ -1,0 +1,51 @@
+@font-face{font-family:Segoe UI Light;src:url(segoeuil.ttf)/*tpa=http://visage-school.ru/my-css/segoeuil.ttf*/;}
+html {
+  height: 100%;
+  font-family: Segoe UI Light;
+}
+section{
+  width: var(--main-width);
+  padding: var(--main-padding);
+  display: block;
+  margin: 0 auto;
+}
+section:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+menu{
+  padding: 0px;
+  margin: 0px;
+}
+button{
+  border: none;
+  margin: 0px;
+  padding: 0px;
+}
+img{
+  margin: 0px;
+  padding: 0px;
+}
+div,menu{
+  position: relative;
+}
+.font-slim{
+  font-size: var(--font-size);
+}
+.font-normal{
+  font-size: var(--font-size);
+}
+    .item-mobile-1{
+        font-size: 24px;
+        line-height: 30px;
+    }
+.font-big{
+  font-size: var(--font-size);
+}
+.col-3{
+  margin: calc(var(--main-margin) / 2) var(--main-margin);
+  width: calc((var(--main-width) - (var(--main-margin) * 4)) / 3);
+  display: inline-block;
+  vertical-align: top;
+}
